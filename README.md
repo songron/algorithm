@@ -3,6 +3,6 @@ algorithm
 
 Data Structure and Algorithms
 
-Some useful data structure & algorithm.
+Some useful data structure & algorithms.
 
-e.g. , greatest common divisor, bitmap, kpmsearch, and so on.
+e.g. , greatest common divisor, bitmap, KMP-search, and so on.
