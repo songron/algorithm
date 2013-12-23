@@ -87,6 +87,7 @@ node *test_delete(node *root)
         root = delete(root, key);
         print_tree(root);
     }
+    free(key);
     return root;
 }
 // end of test
